@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.scss?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -29,8 +29,8 @@
 
             <h3>Contact Info:</h3>
             <div class="contact-info">
-                <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-                <p><strong>Phone:</strong> {{ site.phone }}</p>
+                <p><b>Email:</b> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+                <p><b>Phone:</b> {{ site.phone }}</p>
                 <p><a href="{{ site.linkedin }}">LinkedIn</a> | <a href="{{ site.github }}">GitHub</a></p>
             </div>
 
