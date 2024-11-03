@@ -23,13 +23,15 @@
             <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
 
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
+            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-            <div class="contact-info">
-                <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-                <p>Phone: {{ site.phone }}</p>
-                <p><a href="{{ site.linkedin }}">LinkedIn</a> | <a href="{{ site.github }}">GitHub</a></p>
-            </div>
+            <h3>Contact Info</h3>
+            <ul>
+                <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                <li>Phone: {{ site.phone }}</li>
+                <li><a href="{{ site.linkedin }}">LinkedIn</a> | <a href="{{ site.github }}">GitHub</a></li>
+            </ul>
+
 
             {% if site.github.is_project_page %}
             <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{

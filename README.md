@@ -5,22 +5,22 @@
 ---
 
 # Skills
-- **Programming Languages & Frameworks:** 
-    - Ruby on Rails
-    - Node.js
-    - Java (Spring Boot)
-    - Python
-    - Express.js
-    - React.js
-    - Angular.js
-- **Tools & Technologies:** 
-    - Git
-    - Kafka
-    - Redis
-    - Postgres
-    - Clickhouse
-    - Docker
-    - Kubernetes
+## Programming Languages & Frameworks:
+- Ruby on Rails
+- Node.js
+- Java (Spring Boot)
+- Python
+- Express.js
+- React.js
+- Angular.js
+## Tools & Technologies:** 
+- Git
+- Kafka
+- Redis
+- Postgres
+- Clickhouse
+- Docker
+- Kubernetes
 
 ---
 
