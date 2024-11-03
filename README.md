@@ -13,6 +13,7 @@
 - Express.js
 - React.js
 - Angular.js
+
 ## Tools & Technologies:
 - Git
 - Kafka
@@ -33,7 +34,7 @@
 
 # Professional Experience
 
-## Lune
+## [Lune](https://lunedata.io)
 **Senior Software Engineer**  
 *March 2024 – Present | Remote*  
 - Developing a financial data enrichment application using Ruby on Rails.
@@ -41,7 +42,7 @@
 - Established a sync mechanism between the primary PostgreSQL database and analytics database (Clickhouse) using Kafka.
 - Migrated backend service from Django to Ruby on Rails.
 
-## Rise Egypt
+## [Rise Egypt](https://riseco.ai/)
 **Software Engineer II**  
 *August 2023 – March 2024 | Egypt*  
 - Implemented features for tracking transactions and settlements using Ruby on Rails, React.js, and PostgreSQL.
@@ -49,7 +50,7 @@
 - Integrated with the Egyptian Tax Authority Invoicing SDK to automate invoice generation for transactions for governmental tax auditing.
 - Enhanced code quality, readability, and maintainability using RuboCop.
 
-## Avaya
+## [Avaya](https://www.avaya.com/en/)
 **Software Engineer - Sr. Technical Associate**  
 *March 2020 – August 2023 | Egypt*  
 
@@ -88,9 +89,7 @@
 - Joined as a member in 2007; took on a leadership role in 2014.
 - Acquired skills including teamwork, task distribution, and planning.
 - Developed annual plans to improve the skills of the teams I led.
-- Built the group’s website using WordPress.
+- Built the group’s [website using WordPress](http://sportingscout.org).
 - Led the group’s digital transformation, converting manual data to centralized digital formats.
 
 ---
-
-*This resume is also available on [GitHub Pages](https://github.com/kareemhossam).*
