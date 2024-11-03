@@ -84,7 +84,7 @@
 ---
 
 # Volunteering
-**Sporting Scouts and Girl Guides Group**  
+## Sporting Scouts and Girl Guides Group
 2007 – Present  
 - Joined as a member in 2007; took on a leadership role in 2014.
 - Acquired skills including teamwork, task distribution, and planning.
