@@ -13,7 +13,7 @@
 - Express.js
 - React.js
 - Angular.js
-## Tools & Technologies:** 
+## Tools & Technologies:
 - Git
 - Kafka
 - Redis
