@@ -28,7 +28,7 @@
 # Languages
 - **English** (Fluent)
 - **Arabic** (Native)
-- **German** (Persuing B1 Goethe-Zertifikat)
+- **German** (Pursuing B1 Goethe-Zertifikat)
 
 ---
 
