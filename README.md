@@ -1,9 +1,3 @@
-Email: [kareem.hossam1996@gmail.com](mailto:kareem.hossam1996@gmail.com)  
-Phone: +201095004184  
-[LinkedIn](https://www.linkedin.com/in/kareemhossam/) | [GitHub](https://github.com/kareemhossam)
-
----
-
 # Education
 **BSc. in Computer and Communication Engineering**  
 *Alexandria University*, 2019
