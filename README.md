@@ -1,8 +1,3 @@
----
-layout: default
-title: Kareem Elmetwally's Resume
----
-
 # Kareem Elmetwally
 **Software Engineer**  
 Email: [kareem.hossam1996@gmail.com](mailto:kareem.hossam1996@gmail.com)  
